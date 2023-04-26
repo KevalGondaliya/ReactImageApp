@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+ .main-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+ }
+ .buttonCol {
+  margin-top: 25px !important; 
+ }
+  .browseFile { 
+    opacity: 1; 
+    cursor: pointer !important;
+    /* margin-left: -220px;
+    border-radius: 20px !important;
+    height: auto !important;
+    padding: 8px 12px !important;
+    width: 95% !important; */
+  } 
+  .browseButton { 
+    cursor: pointer !important;
+  } 
